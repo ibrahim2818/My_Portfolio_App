@@ -9,7 +9,12 @@ This app presents a clean, card-based personal portfolio UI built with Flutter (
 Key files:
 - `lib/main.dart` — App entry and all screens (`HomePage`, `EducationPage`, `ProjectsPage`, `LocationPage`, `EmailPage`, `PhonePage`, `SkillsPage`, `CertificationsPage`).
 - `images/myimg.jpeg` — Profile image used in `HomePage` via `CircleAvatar`.
+- `images/completed design.png` — Completed UI design preview used in this README.
 - `pubspec.yaml` — Declares assets and Flutter configuration.
+
+## Design Preview
+
+![Completed Design](images/completed%20design.png)
 
 ## Features
 - __Home screen__: Gradient background, profile avatar, name “Ibrahim”, and role “IoT & Robotics Engineer”.
@@ -65,6 +70,7 @@ myportfolioapp/
 │  └─ main.dart            # UI, navigation, and pages
 ├─ images/
 │  └─ myimg.jpeg           # Profile avatar
+│  └─ completed design.png # Completed design preview (for README)
 ├─ pubspec.yaml            # Flutter config and assets
 └─ README.md
 ```
@@ -75,4 +81,4 @@ myportfolioapp/
 - Add more assets via `pubspec.yaml` → `flutter.assets`.
 
 ## Contact
-For questions or suggestions, reach out at `ibrahim0001@std.bdu.ac.bd`.
+For questions or suggestions, reach out at `ibrah******@gmail.com`.
